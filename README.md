@@ -30,3 +30,5 @@ open GitShell or open command line in windows with by running "cmd" in start men
 *** commit frequently throughout the day.
 ** git push, git pull also frequently throughout the day
 
+Conflicts...
+New synced code will indicate where there are conflicting lines. The first line under conflict HEAD will be my original line and the second will be the conflict from someone else. I will need to manually review the differences and make a decision which is write or what new hybrid value is needed.
